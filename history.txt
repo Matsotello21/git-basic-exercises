@@ -1,0 +1,16 @@
+ 1326  git commit -m "third commit"
+ 1328  git checkout dae8c4f77d742cb04a9a4493ed515c25fdab4055\n
+ 1331  cat README.md
+ 1332  git branch -a
+ 1334  clear
+ 1335  git branch milkshake-flavours
+ 1337  git checkout milkshake-flavours
+ 1339  nano milkshakes.md
+ 1340  git status
+ 1341  git add milkshakes.md
+ 1342  git commit -m "added initial flavors"
+ 1344  git checkout main
+ 1346  git branch history
+ 1347  git checkout history
+ 1348  git branch
+ 1349  git log
